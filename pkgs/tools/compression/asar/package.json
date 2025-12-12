@@ -45,12 +45,12 @@
   "dependencies": {
     "chromium-pickle-js": "^0.2.0",
     "commander": "^5.0.0",
-    "glob": "^7.1.6",
+    "glob": "^13.0.0",
     "minimatch": "^3.0.4"
   },
   "devDependencies": {
     "@continuous-auth/semantic-release-npm": "^3.0.0",
-    "electron": "^22.0.0",
+    "electron": "^39.2.7",
     "electron-mocha": "^11.0.2",
     "lodash": "^4.17.15",
     "mocha": "^10.1.0",
